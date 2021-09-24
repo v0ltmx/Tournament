@@ -162,7 +162,7 @@
   
   @keyframes moveBanner {
     0% {
-      transform: translateY(10rem) rotateY(-900deg);
+      transform: translateY(10rem) rotateY(100deg);
     }
     100% {
       transform: translateY(0) rotateY(0);
